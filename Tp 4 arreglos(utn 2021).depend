@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1627453007 source:r:\utn\tp 4 arreglos(utn 2021)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 source:r:\utn\tp 4 arreglos(utn 2021)\pila.c
+	"pila.h"
+
+1490112217 r:\utn\tp 4 arreglos(utn 2021)\pila.h
+	<stdio.h>
+	<malloc.h>
+
